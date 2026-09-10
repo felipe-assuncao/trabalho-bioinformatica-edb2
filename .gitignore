@@ -5,3 +5,6 @@ __pycache__/
 
 # Ignorar arquivos temporários do Word
 ~$*.docx
+
+# Ignorar a pasta de relatorios
+relatorio/
